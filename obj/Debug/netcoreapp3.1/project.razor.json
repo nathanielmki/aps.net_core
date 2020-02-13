@@ -1,0 +1,16 @@
+{
+  "FilePath": "/Users/nmaki/Documents/GitHub/asp.net_core/asp.net_core.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": null,
+  "RootNamespace": "asp.net_core",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
